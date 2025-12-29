@@ -1,0 +1,10 @@
+print("Hello! Welcome to Clever Stories with Uncle Sam!")
+print("Please answer the following questions to help Uncle Sam tell you a clever story.")
+adjective = input("Enter an adjective: ")
+animal = input("Enter an animal: ")
+verb = input("Enter a verb: ")
+verb2 = input("Enter another verb: ")
+exclamation = input("Enter an exclamation: ")
+verb3 = input("Enter one more verb: ")
+
+print(f"It was such a lovely day outside. It was summer and the sun was shinning bright. It was one of those perfect days to go to the park with friends. A few friends suggested that we fo to the park to see the {adjective} {animal}s that were there. I thought it was a great idea, so we all decided to {verb} to the park. When we got there, we saw so many {animal}s! They were all so {adjective} and playful. We decided to {verb2} with them. Suddenly, one of the {animal}s looked right at me and said, '{exclamation}!' I couldn't believe my ears! Then, the {animal} invited me to {verb3} with them every day at the park. It was the most clever day ever!")
